@@ -12,10 +12,13 @@ Me chamo Gabriel Rocha e estou atualmente cursando o ensino médio técnico pelo
 ## ⚙️Meus projetos  
 - Projeto Pregão de Ações:  
 
-  Projeto feito em Java, tentando recriar uma aplicação de compra e venda de ações (LG2).
+  Projeto feito em Java, tentando recriar uma aplicação de compra e venda de ações.  
+  Disciplina: Lógica 2(LG2).
 - Projeto Gerenciador de Tarefas Escolares:  
 
-  Projeto feito em Java, usando Javafx, se trata de uma aplicação que simula um gerenciador de tarefas escolares.
+  Projeto feito em Java, usando Javafx, se trata de uma aplicação que simula um gerenciador de tarefas escolares.  
+  Disciplina: Linguagem de Programação 1(LP1).
 - Jogo da velha:  
 
-  Projeto feito em Java, se trata de uma aplicação que simula um jogo da velha, sem usar interface gráfica.
+  Projeto feito em Java, se trata de uma aplicação que simula um jogo da velha, sem usar interface gráfica.  
+  Disciplina: Linguagem de Programação 1(LP1).
