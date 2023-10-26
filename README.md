@@ -1,6 +1,6 @@
 # 👍 Bem vindo!
 
-Me chamo Gabriel Rocha e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositorios são projetos escolares e pessoai
+Me chamo Gabriel Rocha e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositorios são projetos escolares e pessoais.
 
 ## 📖 Aprendendo:  
 <div style="display: inline_block">
